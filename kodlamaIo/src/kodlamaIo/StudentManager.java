@@ -1,4 +1,4 @@
-package kodlama›o2;
+package kodlamaIo;
 
 public class StudentManager extends UserManager{
 	
